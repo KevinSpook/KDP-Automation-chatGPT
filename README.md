@@ -7,7 +7,7 @@ You only need an IDE to execute this script prefereably python, and you will nee
 
 open cmd and execute this line of code:
 
-python3 -m pip install pynput
+py -m pip install pynput
 
 
 https://pypi.org/project/pynput/
